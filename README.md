@@ -12,6 +12,7 @@ you may need this script to get the `Build Succeeded` notification from working 
 * 🔔 Trigger an AppleScript based notification when build succeeded, build failed, and start running 
 (other opportunities may also be available, based on the `Behavior` opportunities in Xcode preferences).
 * 🥳 This script also contains the timing feature, recording the time interval between `Build Started` and `Build Succeeded` or `Build Failed`.
+* 👨‍👩‍👧‍👦 Multi Xcode**s** supported.
 
 ## How to Use
 1. Download the `XcodeNotifiacion.sh` into your local directory where you like.
